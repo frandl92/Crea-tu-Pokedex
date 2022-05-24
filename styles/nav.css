@@ -1,0 +1,49 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.poke-logo {
+  width: 40vw;
+  height: 40vh;
+}
+
+.to-do {
+  background-color: whitesmoke;
+  border: 10px solid #fefae0;
+  padding: 10px;
+  border-radius: 3px;
+  background: radial-gradient(circle, #fff6b2 0%, #f1ffa4 100%);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.juego-del-topo {
+  background-color: whitesmoke;
+  border: 10px solid #fefae0;
+  padding: 10px;
+  border-radius: 3px;
+  background: radial-gradient(circle, #fff6b2 0%, #f1ffa4 100%);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.search {
+  background-color: whitesmoke;
+  border: 10px solid #fefae0;
+  padding: 10px;
+  border-radius: 3px;
+  background: radial-gradient(circle, #fff6b2 0%, #f1ffa4 100%);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+/*# sourceMappingURL=nav.css.map */

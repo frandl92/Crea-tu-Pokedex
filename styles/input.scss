@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+  }
+  
+  body {
+    background-color: red;
+    background-image: url("../poke-logo/fondo-de-pantalla.png");
+  }
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 3px;
+} 
+
+.write-task {
+    width: 300px;
+}

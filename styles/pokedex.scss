@@ -1,0 +1,30 @@
+.pokedex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .div-pokemon {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      text-align: center;
+    align-items: center;
+    width: 10%;
+    height: 30vh;
+    border: 3px solid yellow;
+    background-color: lightblue;
+    border-radius: 20px;
+  }
+  
+  p {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .tarjetasPokemon {
+    align-items: center;
+  }
+  
